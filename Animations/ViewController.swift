@@ -3,7 +3,7 @@
 //  Animations
 //
 //  Created by Todd Halkowski
-//  
+//  Geneva Consulting
 
 import UIKit
 
